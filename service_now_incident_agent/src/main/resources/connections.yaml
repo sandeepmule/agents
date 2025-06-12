@@ -1,0 +1,4 @@
+servicenow:
+  url: "https://{your-servicenow-instance}.service-now.com/"
+  user: "{your-servicenow-password}"
+  password: "{your-servicenow-password}"
